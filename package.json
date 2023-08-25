@@ -1,7 +1,7 @@
 {
   "name": "museum-paintings",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the homework creating a tech blogger website that allows you to log in, create a post, update / delete your posts, and comment on others posts.   ## TABLE OF CONTENTS   -- [Installation](#installation)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +20,7 @@
     "handlebars": "^4.7.6",
     "mysql2": "^2.2.5",
     "sequelize": "^6.3.5"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
